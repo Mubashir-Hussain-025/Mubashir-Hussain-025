@@ -31,3 +31,37 @@ I am Mubashir Hussain, blending **computer networking** with **cybersecurity eng
 ---
 
 # 🟢 CCNA Lab Series (Upcoming)
+
+# 🟢 Cybersecurity Lab Series (Uploading Soon)
+
+---
+
+# 🟢 Matrix Network Diagram (Your Identity)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigosetti/matrix-live-wallpaper/master/screenshot.gif" width="700"/>
+</p>
+
+---
+
+# 🟢 GitHub Stats (Dark Matrix Theme)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mubashir-Hussain-025&theme=highcontrast&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mubashir-Hussain-025&show_icons=true&theme=chartreuse-dark&icon_color=00FF41&text_color=00FF41" height="170" />
+</p>
+
+---
+
+# 🟢 Activity Graph (Cyber Grid)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mubashir-Hussain-025&theme=matrix&color=00FF41&line=00FF41&point=00FF41"/>
+</p>
+
+---
+
+# 🔗 Social Engineering Entry Points (Contact)
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Digital%20Identity-00FF41?style=for-the-badge&logo=linkedin"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-Attack%20Surface-00FF41?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+<p align="center"><b>🟢 More labs dropping soon. The network is coming alive... 🔥</b></p>
