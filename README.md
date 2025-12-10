@@ -49,14 +49,6 @@ I am Mubashir Hussain, blending **computer networking** with **cybersecurity eng
   <img src="https://github-readme-stats.vercel.app/api?username=Mubashir-Hussain-025&show_icons=true&theme=chartreuse-dark&icon_color=00FF41&text_color=00FF41" height="170" />
 </p>
 
----
-
-# 🟢 Activity Graph (Cyber Grid)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mubashir-Hussain-025&theme=matrix&color=00FF41&line=00FF41&point=00FF41"/>
-</p>
-
----
 
 # 🔗 Social Engineering Entry Points (Contact)
 <p align="center">
