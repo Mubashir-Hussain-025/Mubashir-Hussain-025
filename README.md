@@ -1,59 +1,53 @@
-<!-- Matrix Hacker Typing Banner -->
+<!-- HERO / Typing banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Welcome+to+Mubashir's+Cyber+Lab+%7C+%F0%9F%94%90;Networking+Engineer+%7C+Cybersecurity+Learner;CCNA+%7C+Wireshark+%7C+Linux+%7C+Honeypots;Building+Secure+%26+High-Performance+Networks" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=850&lines=Welcome+to+Mubashir's+Cyber+Lab+%7C+Networking+%2B+Security;CCNA+Labs+%7C+Wireshark+%7C+Honeypots+%7C+ML+for+Security" alt="typing"/>
 </p>
 
 ---
 
-# 🟢 Who Am I? — *Cyber Network Engineer*
-I am Mubashir Hussain, blending **computer networking** with **cybersecurity engineering**.
+# 🟢 Mubashir Hussain — Network & Security Builder
+**Networking (CCNA) • Cybersecurity • ML for Security**
 
-🟩 Cisco Networking (CCNA)  
-🟩 Wireshark Deep Packet Analysis  
-🟩 Linux + Bash + Security Tools  
-🟩 IDS/Honeypot (Cowrie) + Attack Simulation  
-🟩 Network Security Lab Setup (Docker + VirtualBox)  
+I build hands-on labs, Packet Tracer topologies, honeypot experiments, and ML models for network security.
 
 ---
 
-# 🟢 Hacker-Style Animated Badges
+## 🧭 Portfolio Pillars
+- **CCNA-LABS** — Packet Tracer topologies, configs, Wireshark captures  
+- **ML-CYBERSECURITY-PROJECTS** — IDS with ML, traffic anomaly detection, malware classification  
+- **CYBERSECURITY-PROJECTS** — Cowrie honeypot, Docker attack labs, Nmap investigations
+
+---
+
+## 🛠️ Tools & Skills
 <div align="center">
-
-<img src="https://img.shields.io/badge/Cybersecurity-Hacker%20Mindset-00FF41?style=for-the-badge&logo=matrix&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-Networking-00FF41?style=for-the-badge&logo=cisco"/>
-<img src="https://img.shields.io/badge/Wireshark-Packet%20Sniffing-00FF41?style=for-the-badge&logo=wireshark"/>
-<img src="https://img.shields.io/badge/Linux-Command%20Line-00FF41?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/Docker-Lab%20Environments-00FF41?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Honeypots-Intrusion%20Detection-00FF41?style=for-the-badge&logo=hackaday"/>
-
+<img src="https://img.shields.io/badge/Packet%20Tracer-Networking-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cisco-Routing%20%26%20Switching-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-Analysis-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-Security-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-ML-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-Labs-2496ED?style=for-the-badge"/>
 </div>
 
 ---
 
-# 🟢 CCNA Lab Series (Upcoming)
-
-# 🟢 Cybersecurity Lab Series (Uploading Soon)
-
----
-
-# 🟢 Matrix Network Diagram (Your Identity)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigosetti/matrix-live-wallpaper/master/screenshot.gif" width="700"/>
-</p>
+## 🚀 Quick Links
+- 🔸 CCNA labs: `github.com/<your-username>/ccna-labs`  
+- 🔸 ML + Security: `github.com/<your-username>/ml-cybersecurity-projects`  
+- 🔸 Cybersecurity: `github.com/<your-username>/cybersecurity-projects`
 
 ---
 
-# 🟢 GitHub Stats (Dark Matrix Theme)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mubashir-Hussain-025&theme=highcontrast&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mubashir-Hussain-025&show_icons=true&theme=chartreuse-dark&icon_color=00FF41&text_color=00FF41" height="170" />
-</p>
+## 📌 Current Roadmap
+- Upload OSPF, VLAN, NAT labs (Packet Tracer .pkt)  
+- Deploy Cowrie + log parser + analysis write-up  
+- Build IDS model for traffic anomaly detection (notebooks + results)
 
+---
 
-# 🔗 Social Engineering Entry Points (Contact)
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Digital%20Identity-00FF41?style=for-the-badge&logo=linkedin"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-Attack%20Surface-00FF41?style=for-the-badge&logo=gmail"/></a>
-</p>
+## 📬 Contact
+LinkedIn • Email • Twitter (add your links)
 
-<p align="center"><b>🟢 More labs dropping soon. The network is coming alive... 🔥</b></p>
+---
+
+<p align="center"><b style="color:#00FF41">Matrix-style labs incoming — stay tuned 🔐⚡</b></p>
