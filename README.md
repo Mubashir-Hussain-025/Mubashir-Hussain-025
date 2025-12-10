@@ -1,65 +1,33 @@
-<!-- Networking + Cybersecurity Theme Banner -->
+<!-- Matrix Hacker Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00A3FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Mubashir+Hussain+%F0%9F%91%8B;Networking+Engineer+%7C+Cybersecurity+Learner;CCNA+Labs+%7C+Wireshark+%7C+Linux+%7C+IDS;Building+Practical+Networking+%26+Security+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Welcome+to+Mubashir's+Cyber+Lab+%7C+%F0%9F%94%90;Networking+Engineer+%7C+Cybersecurity+Learner;CCNA+%7C+Wireshark+%7C+Linux+%7C+Honeypots;Building+Secure+%26+High-Performance+Networks" />
 </p>
 
 ---
 
-# 🛰️ Networking & Cybersecurity Engineer (in progress)
-🔹 CCNA-focused labs (Routing, Switching, NAT, ACLs)  
-🔹 Cybersecurity fundamentals (Honeypots, IDS, Linux, Wireshark)  
-🔹 Passion for building real-world network topologies  
-🔹 Love creating simulation-based security attacks & defenses  
+# 🟢 Who Am I? — *Cyber Network Engineer*
+I am Mubashir Hussain, blending **computer networking** with **cybersecurity engineering**.
+
+🟩 Cisco Networking (CCNA)  
+🟩 Wireshark Deep Packet Analysis  
+🟩 Linux + Bash + Security Tools  
+🟩 IDS/Honeypot (Cowrie) + Attack Simulation  
+🟩 Network Security Lab Setup (Docker + VirtualBox)  
 
 ---
 
-# 🔧 Core Skills (Networking + Cybersecurity Hybrid)
+# 🟢 Hacker-Style Animated Badges
 <div align="center">
 
-<img src="https://img.shields.io/badge/Cisco-Routing%20%26%20Switching-0A66C2?style=for-the-badge&logo=cisco"/>
-<img src="https://img.shields.io/badge/Packet%20Tracer-Network%20Design-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1E90FF?style=for-the-badge&logo=wireshark"/>
-<img src="https://img.shields.io/badge/Linux-Security%20Ops-black?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/Honeypots-IDS%2FIPS-critical?style=for-the-badge&logo=hackaday"/>
-<img src="https://img.shields.io/badge/Docker-Lab%20Deployments-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Hacker%20Mindset-00FF41?style=for-the-badge&logo=matrix&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-Networking-00FF41?style=for-the-badge&logo=cisco"/>
+<img src="https://img.shields.io/badge/Wireshark-Packet%20Sniffing-00FF41?style=for-the-badge&logo=wireshark"/>
+<img src="https://img.shields.io/badge/Linux-Command%20Line-00FF41?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Docker-Lab%20Environments-00FF41?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Honeypots-Intrusion%20Detection-00FF41?style=for-the-badge&logo=hackaday"/>
 
 </div>
 
 ---
 
-# 🧪 Current Projects
-### 🔹 **CCNA Lab Series** (Uploading soon)
-
-### 🔹 **Cybersecurity Lab Series**
-
----
-
-# 📡 Networking Diagram (Visual Identity)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ishikkkkaaaa/sslo/main/assets/network-flow.gif" width="700"/>
-</p>
-
----
-
-# 📊 GitHub Activity & Stats (Dark Cyber Theme)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mubashir-Hussain-025&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mubashir-Hussain-025&show_icons=true&theme=tokyonight" height="170"/>
-</p>
-
----
-
-# 🔍 Contribution Graph (Cyber Grid Style)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mubashir-Hussain-025&theme=tokyo-night"/>
-</p>
-
----
-
-# 🔗 Connect With Me
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Network%20with%20me-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
-</p>
-
-<p align="center"><b>⚡ More labs uploading soon... stay tuned! ⚡</b></p>
+# 🟢 CCNA Lab Series (Upcoming)
