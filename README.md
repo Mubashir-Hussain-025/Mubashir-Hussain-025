@@ -1,7 +1,8 @@
 <!-- HERO / Typing banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=850&lines=Welcome+to+Mubashir's+Cyber+Lab+%7C+Networking+%2B+Security;CCNA+Labs+%7C+Wireshark+%7C+Honeypots+%7C+ML+for+Security" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=700&color=00FF41&center=true&vCenter=true&width=900&lines=Welcome+to+Mubashir's+Cyber+Lab;Networking+%7C+Security+%7C+CCNA" />
 </p>
+
 
 ---
 
